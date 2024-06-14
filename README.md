@@ -16,7 +16,7 @@ This [Typemill](https://typemill.net/) plugin integrates YouTube videos into you
 2.  **Upload the Plugin:** Upload the extracted `youtube-main` folder to the `plugins` directory of your Typemill installation. Rename the directory to `youtube`.
     
 3.  **Activate the Plugin:** Go to the Typemill admin panel, navigate to the Plugins section, and activate the YouTube plugin.
-4.  
+   
 5. **Add Css:** Add the css.css instructions to Your Site.
     
 
