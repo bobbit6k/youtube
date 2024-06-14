@@ -11,12 +11,13 @@ This [Typemill](https://typemill.net/) plugin integrates YouTube videos into you
 
 ### Installation
 
-1.  **Download the Plugin:** Download the `youtube.zip` file and extract its contents.
+1.  **Download the Plugin:** Download the `youtube-main.zip` file and extract its contents.
     
-2.  **Upload the Plugin:** Upload the extracted `youtube` folder to the `plugins` directory of your Typemill installation.
+2.  **Upload the Plugin:** Upload the extracted `youtube-main` folder to the `plugins` directory of your Typemill installation. Rename the directory to youtube.
     
 3.  **Activate the Plugin:** Go to the Typemill admin panel, navigate to the Plugins section, and activate the YouTube plugin.
-4. **Add Css:** Add the css.css instructions to Your Site.
+4.  
+5. **Add Css:** Add the css.css instructions to Your Site.
     
 
 ### Usage
@@ -38,5 +39,5 @@ The YouTube Typemill plugin ensures that embedded videos are fully responsive, b
 ### Files
 
 -   `youtube.php`: The main PHP file that handles the embedding logic.
- -  `css.css`: Css that make it responsive.
+-  `css.css`: Css that make it responsive.
 	
