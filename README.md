@@ -29,7 +29,7 @@ Replace `VIDEO_ID` with the actual ID of the YouTube video you want to embed.
 
 #### Example
 
-[:youtube id="dQw4w9WgXcQ":]` 
+`[:youtube id="dQw4w9WgXcQ":]` 
 
 ### Responsiveness
 
